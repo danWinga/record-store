@@ -7,7 +7,7 @@ export  const storeProducts = [
     price: 10,
     company: "GOOGLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The Neon Ray has a 5.0-inch touchscreen display. A Quad-core MediaTek processor runs Safaricom Neon Ray. Safaricom Neon Ray has a 1GB RAM and an 8GB of internal storage expandable to 32GB using a microSD card. Safaricom Neon Ray has a 5MP Rear Camera and a 2MP Front camera for selfies. Safaricom Neon Ray runs Android 8.1 (Oreo) and has a 2000 mAh Battery. Buy Safaricom Neon Ray smartphone at the best price online from Nairobi Kenya.",
     inCart: false,
     count: 0,
     total: 0
@@ -19,7 +19,7 @@ export  const storeProducts = [
     price: 16,
     company: "SAMSUNG",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Huawei Y7p comes with a 4GB of RAM and 64GB onboard storage space. The phone features a 6.39 inches display and has a triple-lens camera at the back with a 48 megapixels main lens and selfie camera is 8 megapixels. It has  4000mAh is typical value. Order for this Huawei Y7p online from Jumia Kenya and have it delivered to your doorstep.",
     inCart: false,
     count: 0,
     total: 0
@@ -31,7 +31,9 @@ export  const storeProducts = [
     price: 8,
     company: "htc",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "FEATURES  Sensors  Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass
+BATTERY  Non-removable Li-Ion 3000 mAh battery
+MISC  Colors  Stone Black, Polar White, Royal Blue, Valentine Lux, Mint Green.",
     inCart: false,
     count: 0,
     total: 0
@@ -43,7 +45,21 @@ export  const storeProducts = [
     price: 18,
     company: "htc",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "BODY  Dimensions  156.5 x 76 x 7.9 mm (6.16 x 2.99 x 0.31 in)
+
+Weight  165 g (5.82 oz)
+
+Build  Front glass, aluminum body
+
+SIM  Hybrid Dual SIM (Nano-SIM, dual stand-by)
+
+DISPLAY  Type  IPS LCD capacitive touchscreen, 16M colors
+
+Size  5.5 inches, 83.8 cm2 (~70.5% screen-to-body ratio)
+
+Resolution  1080 x 1920 pixels, 16:9 ratio (~400 ppi density)
+
+Protection  Corning Gorilla Glass (unspecified version)",
     inCart: false,
     count: 0,
     total: 0
